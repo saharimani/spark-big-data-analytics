@@ -1,0 +1,4 @@
+rating_band,total_reviews,distinct_users,distinct_books,percentage_of_total_reviews,avg_reviews_per_user
+High,1807168,792750,175739,60.24,2.2796
+Medium,839880,391076,127367,28.0,2.1476
+Low,352723,229447,68853,11.76,1.5373

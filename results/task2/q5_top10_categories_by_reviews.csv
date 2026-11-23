@@ -1,0 +1,11 @@
+categories,total_reviews,avg_review_score,distinct_users,distinct_books,avg_reviews_per_book
+['Fiction'],824260,4.1136,391305,23405,35.2173
+Other,550987,4.2113,320898,41157,13.3874
+['Juvenile Fiction'],207542,4.4538,138474,6643,31.2422
+['Biography & Autobiography'],107680,4.2588,77843,6314,17.0542
+['Religion'],98003,4.3382,66906,9451,10.3696
+['History'],89928,4.2324,60067,9317,9.652
+['Business & Economics'],65356,4.1204,51056,5617,11.6354
+['Computers'],42403,3.9621,36040,4312,9.8337
+['Social Science'],31064,4.117,24583,3833,8.1044
+['Cooking'],29893,4.3975,25962,2443,12.2362

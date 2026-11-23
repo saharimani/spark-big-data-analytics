@@ -1,0 +1,11 @@
+categories,total_reviews,avg_review_score,distinct_users,distinct_books,avg_reviews_per_book
+['Book burning'],4932,4.1582,2535,1,4932.0
+"['Baggins, Bilbo (Fictitious character)']",2478,4.5783,2396,1,2478.0
+['American Dream'],1785,4.1529,1753,1,1785.0
+"['Manhattan (New York, N.Y.)']",1757,4.1525,1719,1,1757.0
+['Charity-schools'],1523,4.4905,1491,1,1523.0
+['Existential psychotherapy'],2608,4.7297,981,2,1304.0
+"['Baggins, Frodo (Fictitious character)']",2473,4.5774,2388,2,1236.5
+['Foundlings'],1070,4.0636,1040,1,1070.0
+['AReproductive health'],1064,4.8158,1057,1,1064.0
+['Predation (Biology)'],950,3.4884,939,1,950.0

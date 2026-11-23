@@ -1,0 +1,11 @@
+categories,total_reviews,avg_review_score,distinct_users,distinct_books,avg_reviews_per_book
+['Egoism'],39,5.0,19,2,19.5
+['Baby sitters'],33,5.0,33,1,33.0
+['Frontier and pioneer life Yukon Territory'],24,5.0,12,1,24.0
+['Christian ficiton'],20,5.0,13,1,20.0
+['People with disabilities'],20,5.0,20,9,2.2222
+['Humanism'],17,5.0,16,4,4.25
+['Fund raising'],16,5.0,15,3,5.3333
+['Liberalism'],13,5.0,11,3,4.3333
+['Surveying'],13,5.0,11,4,3.25
+"['Body, Human.']",13,5.0,13,1,13.0
